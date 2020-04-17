@@ -8,3 +8,5 @@ Hi Humans!
 変更内容いは何の意味もありません。
 
 There is no sence.
+
+これは訓練ではありません。
