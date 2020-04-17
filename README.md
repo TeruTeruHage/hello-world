@@ -1,10 +1,12 @@
 # hello-world
-demo
+damu
 
-Hi Humans!
+Hi Humans wwwwwwwwwwwwwwwwwwww !
 
 これはデモです。
-暇なので変更しました。
 変更内容いは何の意味もありません。
+暇なので変更しました。
 
-There is no sence.
+Tee s o snc.
+
+これは訓練ではありません。
